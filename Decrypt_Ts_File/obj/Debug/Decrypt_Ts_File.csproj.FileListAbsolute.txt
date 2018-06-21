@@ -1,0 +1,7 @@
+D:\_CODING\C#\Decrypt_Ts_File\Decrypt_Ts_File\bin\Debug\Decrypt_Ts_File.exe.config
+D:\_CODING\C#\Decrypt_Ts_File\Decrypt_Ts_File\bin\Debug\Decrypt_Ts_File.exe
+D:\_CODING\C#\Decrypt_Ts_File\Decrypt_Ts_File\bin\Debug\Decrypt_Ts_File.pdb
+D:\_CODING\C#\Decrypt_Ts_File\Decrypt_Ts_File\obj\Debug\Decrypt_Ts_File.csprojAssemblyReference.cache
+D:\_CODING\C#\Decrypt_Ts_File\Decrypt_Ts_File\obj\Debug\Decrypt_Ts_File.csproj.CoreCompileInputs.cache
+D:\_CODING\C#\Decrypt_Ts_File\Decrypt_Ts_File\obj\Debug\Decrypt_Ts_File.exe
+D:\_CODING\C#\Decrypt_Ts_File\Decrypt_Ts_File\obj\Debug\Decrypt_Ts_File.pdb
